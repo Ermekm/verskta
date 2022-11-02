@@ -1102,7 +1102,7 @@ img {
     color: #fff;
     padding-right: 20px;
     margin-right: 14px;
-    background: url(/img/svg/like-icon.svg) no-repeat right;
+    background: url(../img/svg/like-icon.svg) no-repeat right;
 }
 
 .top__card-comments {
@@ -1111,7 +1111,7 @@ img {
     line-height: 24px;
     color: #fff;
     padding-right: 23px;
-    background: url(/img/svg/comment-icon.svg) no-repeat right;
+    background: url(../img/svg/comment-icon.svg) no-repeat right;
 }
 
 .top__card-desc {
