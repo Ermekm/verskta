@@ -971,6 +971,11 @@
        margin-bottom: 45px;
    }
 
+   .top__card-thumb {
+       width: 100%;
+       object-fit: cover;
+   }
+
    .top__card-stats {
        display: flex;
        flex-wrap: wrap;
